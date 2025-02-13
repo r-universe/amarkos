@@ -8,3 +8,6 @@
 [submodule "idm"]
 	path = idm
 	url = https://github.com/cran/idm
+[submodule "manydist"]
+	path = manydist
+	url = https://github.com/cran/manydist
